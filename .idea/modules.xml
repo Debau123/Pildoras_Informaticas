@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Pildoras_Informaticas.iml" filepath="$PROJECT_DIR$/.idea/Pildoras_Informaticas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pildoras ejemplos/pildoras ejemplos.iml" filepath="$PROJECT_DIR$/pildoras ejemplos/pildoras ejemplos.iml" />
     </modules>
   </component>
 </project>

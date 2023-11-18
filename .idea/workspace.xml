@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27164643-7185-48e0-a7bc-b88d12772368" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Areas_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Bucles1_while_Acesso_aplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/bucle_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/bucles_adivinar_do_while_umero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/bucles_adivinar_numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/comprueba_mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras ejemplos/src/peso_ideal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pildoras_Informaticas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/.idea/Pildoras_Informaticas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/Entrada2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/PrimeraClase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/Prueba_Medal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/Raices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/pruebaentrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/Evaua_edad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/src/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pildoras_Informaticas/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/pildoras ejemplos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Entrada2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Evalua_edad.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Evalua_edad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/PrimeraClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/PrimeraClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Prueba_Medal.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Prueba_Medal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Raices.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Raices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/pruebaentrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/pildoras ejemplos/src/pruebaentrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WaLFu4B2jDMLUzncCK5iKtIp67" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "C:/Users/noseq/IdeaProjects/Pildoras_Informaticas/pildoras ejemplos/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/noseq/IdeaProjects/Pildoras_Informaticas/pildoras ejemplos/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\noseq\IdeaProjects\Pildoras_Informaticas\pildoras ejemplos\src" />
+      <recent name="C:\Users\noseq\IdeaProjects\Pildoras_Informaticas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27164643-7185-48e0-a7bc-b88d12772368" name="Changes" comment="" />
+      <created>1696965643397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696965643397</updated>
+      <workItem from="1697621978921" duration="34000" />
+      <workItem from="1697622049350" duration="46000" />
+      <workItem from="1697722746876" duration="26000" />
+      <workItem from="1699115249704" duration="16000" />
+      <workItem from="1699115298274" duration="13000" />
+      <workItem from="1699869162670" duration="4176000" />
+      <workItem from="1699883550594" duration="23000" />
+      <workItem from="1699888407863" duration="84000" />
+      <workItem from="1699960470555" duration="1253000" />
+      <workItem from="1699986810519" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
